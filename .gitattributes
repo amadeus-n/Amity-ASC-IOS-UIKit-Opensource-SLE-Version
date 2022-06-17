@@ -1,0 +1,4 @@
+UpstraUIKit/Shared/** filter=lfs diff=lfs merge=lfs -text
+Realm filter=lfs diff=lfs merge=lfs -text
+MobileVLCKit filter=lfs diff=lfs merge=lfs -text
+AmityVideoPlayerKit filter=lfs diff=lfs merge=lfs -text
